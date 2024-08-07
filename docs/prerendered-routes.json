@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/",
+    "/a-propos",
+    "/Accueil",
+    "/carte",
+    "/mon-compte",
+    "/sign-in",
+    "/sign-up",
+    "/validate"
+  ]
+}
